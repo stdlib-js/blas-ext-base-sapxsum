@@ -10,6 +10,7 @@
 
 ### Bug Fixes
 
+-   [`1fce730`](https://github.com/stdlib-js/stdlib/commit/1fce730e287d8688956b801feb547ebb6a237756) - use correct include path
 -   [`1fde962`](https://github.com/stdlib-js/stdlib/commit/1fde962b77faff072bd6296e1fbde207ad02cbe6) - use correct dependencies in manifest file
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`1fce730`](https://github.com/stdlib-js/stdlib/commit/1fce730e287d8688956b801feb547ebb6a237756) - **fix:** use correct include path _(by Philipp Burckhardt)_
 -   [`1fde962`](https://github.com/stdlib-js/stdlib/commit/1fde962b77faff072bd6296e1fbde207ad02cbe6) - **fix:** use correct dependencies in manifest file _(by Philipp Burckhardt)_
 
 </details>
