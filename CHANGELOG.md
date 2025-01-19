@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`036fccd`](https://github.com/stdlib-js/stdlib/commit/036fccd5c53531a64ca81e8c4c0818d5f03ac411) - add C `ndarray` API and refactor `blas/ext/base/sapxsum` [(#4812)](https://github.com/stdlib-js/stdlib/pull/4812)
+
+</section>
+
+<!-- /.features -->
 
 <section class="bug-fixes">
 
@@ -22,6 +32,7 @@
 
 <details>
 
+-   [`036fccd`](https://github.com/stdlib-js/stdlib/commit/036fccd5c53531a64ca81e8c4c0818d5f03ac411) - **feat:** add C `ndarray` API and refactor `blas/ext/base/sapxsum` [(#4812)](https://github.com/stdlib-js/stdlib/pull/4812) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`bf5643f`](https://github.com/stdlib-js/stdlib/commit/bf5643fb1a3f32a60903d8e210f71571e609119f) - **docs:** update related packages sections [(#3404)](https://github.com/stdlib-js/stdlib/pull/3404) _(by stdlib-bot)_
 -   [`7e366ae`](https://github.com/stdlib-js/stdlib/commit/7e366ae8bd41439be0e99e958d1c3fbb1b7dd0c2) - **chore:** update package.json descriptions _(by Philipp Burckhardt)_
@@ -38,9 +49,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Muhammad Haris
 -   Philipp Burckhardt
 
 </section>
