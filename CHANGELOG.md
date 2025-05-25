@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-05-25)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - add missing checks for `N` and address failing tests stemming from refactoring
 -   [`aabe731`](https://github.com/stdlib-js/stdlib/commit/aabe7310272e138b7ae69a9297832aa7fcb21ef1) - update variable name and define `status` type
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`36768b4`](https://github.com/stdlib-js/stdlib/commit/36768b4fb7c5b0c7934fc8c9f1ab7f8ffe67b3e9) - **docs:** update related packages sections [(#5181)](https://github.com/stdlib-js/stdlib/pull/5181) _(by stdlib-bot)_
 -   [`036fccd`](https://github.com/stdlib-js/stdlib/commit/036fccd5c53531a64ca81e8c4c0818d5f03ac411) - **feat:** add C `ndarray` API and refactor `blas/ext/base/sapxsum` [(#4812)](https://github.com/stdlib-js/stdlib/pull/4812) _(by Muhammad Haris)_
