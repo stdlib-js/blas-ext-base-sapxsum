@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapxsum@deno/mod.js';
+import sapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapxsum@v0.3.1-deno/mod.js';
 ```
 
 #### sapxsum( N, alpha, x, strideX )
@@ -146,7 +146,7 @@ var v = sapxsum.ndarray( 4, 5.0, x, 2, 1 );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import sapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapxsum@deno/mod.js';
+import sapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapxsum@v0.3.1-deno/mod.js';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float32'
